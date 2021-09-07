@@ -1,0 +1,1 @@
+This project uses all of the concepts that we learned in class to analyze an ice cream dispensing robot
